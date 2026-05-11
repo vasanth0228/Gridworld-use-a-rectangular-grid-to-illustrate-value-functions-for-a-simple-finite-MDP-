@@ -19,8 +19,6 @@ Define:
 - Rewards
 - Transition probabilities
 
-
-
 ### Step 3
 Initialize the value function \( V(s) \) for all states to zero.
 
@@ -47,11 +45,7 @@ Display the final state-value grid.
 ---
 
 
-
-
-
 # Program
-
 ```
 import numpy as np
 
@@ -139,6 +133,8 @@ for row in policy:
 # Output
 
 <img width="428" height="279" alt="image" src="https://github.com/user-attachments/assets/a9e9d3c8-94f1-4275-906b-125f12f060c5" />
+
+
 
 
 # Result
